@@ -108,9 +108,10 @@ body{
     font-size: 16px;
     border-radius: 20px;
     cursor:pointer;
+    transition: all ease-in 0.3s;
 }
 .form button:hover{
-    background: transparent;;
+    background: transparent;
 }
 .form p{
     color: rgba(255, 255, 255, 0.5);
